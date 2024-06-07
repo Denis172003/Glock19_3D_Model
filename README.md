@@ -1,4 +1,4 @@
-# **Glock 19 3D Model and Schematics**
+# **Glock 19 3D Model**
 This repository contains the detailed 3D model and 2D schematics of a Glock 19 pistol. The project includes all individual components of the Glock 19, meticulously designed in AutoCAD.
 
 ---
