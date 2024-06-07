@@ -11,31 +11,31 @@ Accompanying the 3D models are 2D schematics. These schematics include measureme
 Included Components
 The repository contains the following pieces of the Glock 19:
 
-(-) Barrel
+- Barrel
 - Cartridge
 - Extractor Depressor Plunger
-Extractor Depressor Plunger Spring
-Firing Pin
-Firing Pin Safety
-Firing Pin Safety Spring
-Firing Pin Spring
-Follower
-Frame
-Locking Block
-Locking Block Pin
-Magazine Spring
-Magazine Tube
-Recoil Spring Guide Rod
-Slide
-Slide Cover Plate
-Slide Lock
-Slide Lock Spring
-Slide Stop Lever
-Spring Cups
-Spring Loaded Bearing
-Trigger Housing Pin
-Trigger Mechanism Housing
-Trigger Pin
-Trigger Spring
-Trigger with Trigger Bar
-Glock-19 (Complete Assembly)
+- Extractor Depressor Plunger Spring
+- Firing Pin
+- Firing Pin Safety
+- Firing Pin Safety Spring
+- Firing Pin Spring
+- Follower
+- Frame
+- Locking Block
+- Locking Block Pin
+- Magazine Spring
+- Magazine Tube
+- Recoil Spring Guide Rod
+- Slide
+- Slide Cover Plate
+- Slide Lock
+- Slide Lock Spring
+- Slide Stop Lever
+- Spring Cups
+- Spring Loaded Bearing
+- Trigger Housing Pin
+- Trigger Mechanism Housing
+- Trigger Pin
+- Trigger Spring
+- Trigger with Trigger Bar
+- Glock-19 (Complete Assembly)
