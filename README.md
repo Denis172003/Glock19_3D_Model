@@ -1,4 +1,5 @@
 # **Glock 19 - 3D Model**
+![file (5)](https://github.com/Denis172003/Glock19_3D_Model/assets/119741950/f8c8cbea-ecae-4392-824f-0acc92292bb6)
 This repository contains the detailed 3D model and 2D schematics of a Glock 19 pistol. The project includes all individual components of the Glock 19, meticulously designed in AutoCAD.
 
 ---
@@ -43,4 +44,3 @@ The repository contains the following pieces of the Glock 19:
 - Trigger Spring
 - Trigger with Trigger Bar
 - Glock-19 (Complete Assembly)
-![file (5)](https://github.com/Denis172003/Glock19_3D_Model/assets/119741950/f8c8cbea-ecae-4392-824f-0acc92292bb6)
